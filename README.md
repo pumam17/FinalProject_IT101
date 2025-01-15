@@ -20,12 +20,12 @@
 <p>For Kentucky: 6.0%	of Weekly Gross Pay</p>
 <p>For Indiana: 5.5% of Weekly Gross Pay</p>
 <h6>Federal Taxes:</h6>
-<h6>Weekly Gross Pay Income Tax&emsp;&emsp;Withheld based on the Weekly Gross Pay</h6>
-<p>$0 to $50&emsp;&emsp;&nbsp;$0</p>
-<p>>$50 to $500&emsp;&ensp;10%  of amount over $50</p>
-<p>>$500 to $2,500&ensp;&nbsp;$45.00 + 15% of amount over $500.00</p>
-<p>>$2,500 to $5,000&nbsp;$345.00 + 20% of amount over $2,500</p>
-<p>Over $5,000&emsp;&ensp;&nbsp;$845.00 + 25% of amount over $5,000</p>
+<h6>Weekly Gross Pay Income Tax&emsp; Withheld based on the Weekly Gross Pay</h6>
+<p>$0 to $50&emsp; $0</p>
+<p>>$50 to $500&&emsp; 10%  of amount over $50</p>
+<p>>$500 to $2,500&emsp; $45.00 + 15% of amount over $500.00</p>
+<p>>$2,500 to $5,000&emsp; $345.00 + 20% of amount over $2,500</p>
+<p>Over $5,000&emsp; $845.00 + 25% of amount over $5,000</p>
 <h6>Net Pay:</h6>
 <p>Gross Pay – FICA – State Taxes – Federal Taxes</p>
 </body>
