@@ -4,7 +4,7 @@
 <h1>HOW TO RUN AND TEST THIS FILE</h1>
 </head>
 <body>
-<p></p>
+<p>1.</p>
 <img src="" alt="" title="">
 </body>
 </html>
