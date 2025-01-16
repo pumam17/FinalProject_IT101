@@ -95,14 +95,5 @@
 <h6>Daily Totals</h6>
 <p>Daily Gross:&emsp;$1,782.50</p>
 <p>Daily Net:&emsp;$14,612.12</p>
-<p>![Image Alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/frmMenu.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase0.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase0daily.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase1.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase1daily.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase2.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase2daily.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase3.jpg)</p>
-<p>![image alt](https://github.com/pumam17/FinalProject_IT101/blob/82a6eeffe7bdbfe4aec8b83f8dece82f78e78ab3/Images/testCase3daily.jpg)</p>
 </body>
 </html>
