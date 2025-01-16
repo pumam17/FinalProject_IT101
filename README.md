@@ -95,5 +95,6 @@
 <h6>Daily Totals</h6>
 <p>Daily Gross:&emsp;$1,782.50</p>
 <p>Daily Net:&emsp;$14,612.12</p>
+![Image](https://github.com/user-attachments/assets/9a9e0c0e-3e89-43b3-8843-b306f0da040b)
 </body>
 </html>
