@@ -95,6 +95,5 @@
 <h6>Daily Totals</h6>
 <p>Daily Gross:&emsp;$1,782.50</p>
 <p>Daily Net:&emsp;$14,612.12</p>
-<img src="frmMenu.jpg">
 </body>
 </html>
