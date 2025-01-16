@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <h1>IT 101 Final Project</h1>
