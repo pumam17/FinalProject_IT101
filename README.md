@@ -5,7 +5,7 @@
 </head>
 <body>
 <h6>***IN ORDER TO RUN THIS APPLICATION YOU WILL NEED MICROSOFT VISUAL STUDIO***</h6>
-<h6>Problem Statement:</h6>
+<h3>Problem Statement:</h3>
 <p>Write a payroll program for the Lick2theStickLollipops Company. Located in Cincinnati, Ohio and has employees that live in OH, Indy, and KY. Company has salaried (manager) and hourly employees. Application should assist the payroll clerk in doing her weekly (52 times a year) payroll.</p>
 <p>Application will allow the clerk to state if the payroll is salaried or hourly. Then the clerk will gain access to the proper form and enter first, last name, and necessary data for type of employee to provide:  Gross Pay, FICA, State Taxes, Federal Taxes, and Net Pay.</p>
 <p>Daily Total of Gross Pay and Net Pay that combine both Salaried and Hourly Employees must be accessible.</p>
