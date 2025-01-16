@@ -95,5 +95,14 @@
 <h6>Daily Totals</h6>
 <p>Daily Gross:&emsp;$1,782.50</p>
 <p>Daily Net:&emsp;$14,612.12</p>
+<img src="/images/frmMenu.jpg" alt="image of the menu form" title="frmMenu.jpg">
+<img src="/images/testCase0.jpg" alt="image of the first test case" title="testCase0.jpg">
+<img src="/images/testCase0daily.jpg" alt="image of the daily totals after first test case" title="testCase0daily.jpg">
+<img src="/images/testCase1.jpg" alt="image of the second test case" title="testCase1.jpg">
+<img src="/images/testCase1daily.jpg" alt="image of the daily totals after second test case" title="testCase1daily.jpg">
+<img src="/images/testCase2.jpg" alt="image of the third test case" title="testCase2.jpg">
+<img src="/images/testCase2daily.jpg" alt="image of the daily totals after third test case" title="testCase2daily.jpg">
+<img src="/images/testCase3.jpg" alt="image of the fourth test case" title="testCase3.jpg">
+<img src="/images/testCase3daily.jpg" alt="image of the daily totals after fourth test case" title="testCase3daily.jpg">
 </body>
 </html>
