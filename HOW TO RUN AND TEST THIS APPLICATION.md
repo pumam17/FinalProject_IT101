@@ -15,6 +15,6 @@
 <p>6.Open the file and click on the .sln file.</p>
 <img src="/images/imgIT1013.jpg" alt="open file click .sln file" title="click .sln file">
 <p>7.Run the application.</p>
-<img src="/images/imgIT1014.jpg" alt="run the application" title="click run">
+<img src="/images/imgIT1014.jpg" alt="run the application" title="click start">
 </body>
 </html>
