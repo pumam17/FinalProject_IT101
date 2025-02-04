@@ -55,20 +55,6 @@
     <td>Over $5,000</td>
     <td>$845.00 + 25% of amount over $5,000</td>
   </tr>
-  <tr>
-    <td>$0 to $50</td>
-    <td>$50 to $500</td>
-    <td>$500 to $2,500</td>
-    <td>$2,500 to $5,000</td>
-    <td>Over $5,000</td>
-  </tr>
-  <tr>
-    <td>$0</td>
-    <td>10%  of amount over $50</td>
-    <td>$45.00 + 15% of amount over $500.00</td>
-    <td>$345.00 + 20% of amount over $2,500</td>
-    <td>$845.00 + 25% of amount over $5,000</td>
-  </tr>
 </table>
 <h6>Weekly Gross Pay Income Tax&emsp; Withheld based on the Weekly Gross Pay</h6>
 <p>$0 to $50&emsp; $0</p>
