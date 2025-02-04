@@ -17,10 +17,46 @@
 <p>Social Security is 6.2% of the first 125,000 of Yearly Gross Pay (Social Security tax). After employee has accumulated over $125,000 in yearly gross pay, they do not pay Social Security Tax. For each payroll the payroll clerk will provide the cumulative Yearly Gross Pay that has accumulated prior to the current payroll for that year</p>
 <p>Medicare which is 1.45% of total Gross Pay.</p>
 <h6>State Taxes:</h6>
+<table border="1">
+  <tr>
+    <th>For Ohio:</th>
+    <th>For Kentucky:</th>
+    <th>For Indiana:</th>
+  </tr>
+  <tr>
+    <td>6.5% of Weekly Gross Pay</td>
+  </tr>
+  <tr>
+    <td>6.0%	of Weekly Gross Pay</td>
+  </tr>
+  <tr>
+    <td>5.5% of Weekly Gross Pay</td>
+  </tr>
+</table>
 <p>For Ohio: 6.5% of Weekly Gross Pay</p>
 <p>For Kentucky: 6.0%	of Weekly Gross Pay</p>
 <p>For Indiana: 5.5% of Weekly Gross Pay</p>
 <h6>Federal Taxes:</h6>
+<table border="1">
+  <tr>
+    <th>Weekly Gross Pay Income Tax</th>
+    <th>Withheld based on the Weekly Gross Pay</th>
+  </tr>
+  <tr>
+    <td>$0 to $50</td>
+    <td>$50 to $500</td>
+    <td>$500 to $2,500</td>
+    <td>$2,500 to $5,000</td>
+    <td>Over $5,000</td>
+  </tr>
+  <tr>
+    <td>$0</td>
+    <td>10%  of amount over $50</td>
+    <td>$45.00 + 15% of amount over $500.00</td>
+    <td>$345.00 + 20% of amount over $2,500</td>
+    <td>$845.00 + 25% of amount over $5,000</td>
+  </tr>
+</table>
 <h6>Weekly Gross Pay Income Tax&emsp; Withheld based on the Weekly Gross Pay</h6>
 <p>$0 to $50&emsp; $0</p>
 <p>>$50 to $500&&emsp; 10%  of amount over $50</p>
