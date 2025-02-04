@@ -25,11 +25,7 @@
   </tr>
   <tr>
     <td>6.5% of Weekly Gross Pay</td>
-  </tr>
-  <tr>
     <td>6.0%	of Weekly Gross Pay</td>
-  </tr>
-  <tr>
     <td>5.5% of Weekly Gross Pay</td>
   </tr>
 </table>
