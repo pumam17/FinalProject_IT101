@@ -29,14 +29,31 @@
     <td>5.5% of Weekly Gross Pay</td>
   </tr>
 </table>
-<p>For Ohio: 6.5% of Weekly Gross Pay</p>
-<p>For Kentucky: 6.0%	of Weekly Gross Pay</p>
-<p>For Indiana: 5.5% of Weekly Gross Pay</p>
 <h6>Federal Taxes:</h6>
 <table border="1">
   <tr>
     <th>Weekly Gross Pay Income Tax</th>
     <th>Withheld based on the Weekly Gross Pay</th>
+  </tr>
+  <tr>
+    <td>$0 to $50</td>
+    <td>$0</td>
+  </tr>
+  <tr>
+    <td>$50 to $500</td>
+    <td>10%  of amount over $50</td>
+  </tr>
+  <tr>
+    <td>$500 to $2,500</td>
+    <td>$45.00 + 15% of amount over $500.00</td>
+  </tr>
+  <tr>
+    <td>$2,500 to $5,000</td>
+    <td>$345.00 + 20% of amount over $2,500</td>
+  </tr>
+  <tr>
+    <td>Over $5,000</td>
+    <td>$845.00 + 25% of amount over $5,000</td>
   </tr>
   <tr>
     <td>$0 to $50</td>
