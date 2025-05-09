@@ -58,73 +58,7 @@
 </table>
 <h6>Net Pay:</h6>
 <p>Gross Pay – FICA – State Taxes – Federal Taxes</p>
-<h1>Test Cases (With input and expected results).</h1>
-<h3>Test Case : 1</h3>
-<h5>Inputs</h5>
-<p>Employee Type:&emsp;Manager</p>
-<p>Salary:&emsp;$52,000</p>
-<p>State:&emsp;Kentucky</p>
-<p>YTD Total Pay:&emsp;$0</p>
-<h5>Outputs</h5>
-<p>Gross Pay:&emsp;$1,000.00</p>
-<p>FICA:&emsp;$76.50</p>
-<p>&emsp;Based on the sum of ($62 for social security and $14.50 for Medicare)</p>
-<p>State Taxes:&emsp;$60.00</p>
-<p>Federal Taxes:&emsp;$120.00</p>
-<p>Net Pay:&emsp;$743.50</p>
-<h6>Daily Totals</h6>
-<p>Daily Gross:&emsp;$1,000.00</p>
-<p>Daily Net:&emsp;$743.50</p>
-<h3>Test Case : 2</h3>
-<h5>Inputs</h5>
-<p>Employee Type:&emsp;Manager</p>
-<p>Salary:&emsp;$520,000</p>
-<p>State:&emsp;Ohio</p>
-<p>YTD Total Pay:&emsp;$260,000</p>
-<h5>Outputs</h5>
-<p>Gross Pay:&emsp;$10,000.00</p>
-<p>FICA:&emsp;$145.00</p>
-<p>&emsp;Based on the sum of ($0 for social security and $145.00 for Medicare)</p>
-<p>State Taxes:&emsp;$650.00</p>
-<p>Federal Taxes:&emsp;$2,095.00</p>
-<p>Net Pay:&emsp;$7,114.50</p>
-<h6>Daily Totals</h6>
-<p>Daily Gross:&emsp;$11,000.00</p>
-<p>Daily Net:&emsp;$7,858.00</p>
-<h3>Test Case : 3</h3>
-<h5>Inputs</h5>
-<p>Employee Type:&emsp;Hourly Employee</p>
-<p>Wage:&emsp;$25.00</p>
-<p>Hours:&emsp;40</p>
-<p>State:&emsp;Indiana</p>
-<p>YTD Total Pay:&emsp;$16,000</p>
-<h5>Outputs</h5>
-<p>Gross Pay:&emsp;$1,000.00</p>
-<p>FICA:&emsp;$76.50</p>
-<p>&emsp;Based on the sum of ($62 for social security and $14.50 for Medicare)</p>
-<p>State Taxes:&emsp;$55.00</p>
-<p>Federal Taxes:&emsp;$120.00</p>
-<p>Net Pay:&emsp;$748.50</p>
-<h6>Daily Totals</h6>
-<p>Daily Gross:&emsp;$12,000.00</p>
-<p>Daily Net:&emsp;$8,606.50</p>
-<h3>Test Case : 4</h3>
-<h5>Inputs</h5>
-<p>Employee Type:&emsp;Hourly Employee</p>
-<p>Wage:&emsp;$125.00</p>
-<p>Hours:&emsp;60</p>
-<p>State:&emsp;Kentucky</p>
-<p>YTD Total Pay:&emsp;$120,000</p>
-<h5>Outputs</h5>
-<p>Gross Pay:&emsp;$8,750.00</p>
-<p>FICA:&emsp;$436.88</p>
-<p>&emsp;Based on the sum of ($310 for social security and $126.88  for Medicare)</p>
-<p>State Taxes:&emsp;$525.00</p>
-<p>Federal Taxes:&emsp;$1,782.50</p>
-<p>Net Pay:&emsp;$1,782.50</p>
-<h6>Daily Totals</h6>
-<p>Daily Gross:&emsp;$1,782.50</p>
-<p>Daily Net:&emsp;$14,612.12</p>
+<h1>Test Cases</h1>
 <img src="/images/frmMenu.jpg" alt="image of the menu form" title="frmMenu.jpg">
 <img src="/images/testCase0.jpg" alt="image of the first test case" title="testCase0.jpg">
 <img src="/images/testCase0daily.jpg" alt="image of the daily totals after first test case" title="testCase0daily.jpg">
